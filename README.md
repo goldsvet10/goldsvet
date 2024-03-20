@@ -25,7 +25,7 @@ PLUGINS AVAILABLE IN DISCORD DOWNLOADS TOO ONLY FOR SUBSCRIBERS&nbsp;</strong></
 
 <p>This is a Laravel casino app. You need to download game packs for it.</p>
 
-<p>Official Discord : <a href="https://discord.gg/3QpZNd89WZ"> https://discord.gg/3QpZNd89WZ</a></p>
+<p>Official Discord : <a href="https://discord.gg/XpDttMaVkn"> https://discord.gg/XpDttMaVkn</a></p>
 
 <p>DEMO : <a href="HTTPS:///casino.377PLAY.COM">HTTPS://casino.377PLAY.COM</a>&nbsp;<br />
 V10.1 DEMO : <a href="https://betshop.io">HTTPS://betshop.io</a></p>
@@ -36,11 +36,11 @@ V10.1 DEMO : <a href="https://betshop.io">HTTPS://betshop.io</a></p>
 
 <p>1100 games total as of december 2023 includes 100 prag pack [ now 1200 ]</p>
 
-<p><a href="https://discord.gg/HscTu67FSu">https://discord.gg/HscTu67FSu</a></p>
+<p><a href="https://discord.gg/XpDttMaVkn">https://discord.gg/XpDttMaVkn</a></p>
 
 <h2>Partner Service</h2>
 
-<p><a href="https://promex.me/shop/discordoffers/goldsvet-version-9-complete-php-script-laravel-9-php8/">Promex Partner Service</a></p>
+<p><a href="">Promex Partner Service</a></p>
 
 <p>This partner service offers a pre-setup environment for hosting the script, which you can edit after initial setup.</p>
 
@@ -87,12 +87,12 @@ Download the GeoIP2 City database from our discord</p>
 
 <h2>File Edits</h2>
 
-<p>EDIT casino/public/ ALL SOCKET FILES CHANGE YOUR DOMAIN NAMEIF YOU NEED TO CHANGE PORTS YOU CAN DO SO HERE AS WELLGames downloads Find download packages at discord&nbsp;<a href="https://discord.gg/HscTu67FSu" rel="nofollow">https://discord.gg/HscTu67FSu</a>&nbsp;Currently ~ 1000 games &ndash; 40 GB total. Go to /home/USERNAME/public_html/ <span style="color:#ff0000">Password is : password</span> Download the core + 3 game packs Unpack<br />
+<p>EDIT casino/public/ ALL SOCKET FILES CHANGE YOUR DOMAIN NAMEIF YOU NEED TO CHANGE PORTS YOU CAN DO SO HERE AS WELLGames downloads Find download packages at discord&nbsp;<a href="https://discord.gg/XpDttMaVkn" rel="nofollow">https://discord.gg/XpDttMaVkn</a>&nbsp;Currently ~ 1000 games &ndash; 40 GB total. Go to /home/USERNAME/public_html/ <span style="color:#ff0000">Password is : password</span> Download the core + 3 game packs Unpack<br />
 (Unix Tip : upload one zip file, install 7z, unpack with:: 7z x -ppassword file.zip ) ---</p>
 
 <h2>Games Downloads</h2>
 
-<p>Find download packages at Discord: <a href="https://discord.gg/HscTu67FSu">https://discord.gg/HscTu67FSu</a></p>
+<p>Find download packages at Discord: <a href="https://discord.gg/XpDttMaVkn">https://discord.gg/XpDttMaVkn</a></p>
 
 <p>Currently ~1000 games &ndash; 40 GB total.</p>
 
